@@ -1,1 +1,3 @@
-"# tile-puzzle-solver" 
+# tile-puzzle-solver
+
+Run `python main.py`
